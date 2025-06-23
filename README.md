@@ -1,20 +1,12 @@
 # NakliWebsite
-This is a Python-based phishing simulation tool for educational use only. DO NOT use this tool for real phishing or illegal activity.
+An educational phishing simulation tool (like Zphisher/PhisherMan) for Linux & Termux.  
+⚠️ For awareness & testing only. Do not use illegally.
 
-## Features
-- Fake login page hosting
-- Capture entered credentials
-- Ngrok public URL support
+## 💻 Installation (Linux/Termux)
 
-## Usage
 ```bash
-chmod +x ngrok
-./ngrok authtoken 2yrJgs9LgPtAVqmzxariwoY8WMA_4D1fof8AmBXfKZscBC6Ko
-python3 main.py
-```
-
-## License
-Educational use only. Developer is not responsible for misuse.
-
-## Author
-Developed by yuvrajtyagi
+apt install git python3 unzip wget -y               # Install dependencies
+git clone https://github.com/youruser/NakliWebsite.git
+cd NakliWebsite
+chmod +x setup.sh
+./setup.sh
