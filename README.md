@@ -5,7 +5,6 @@ An educational phishing simulation tool (like Zphisher/PhisherMan) for Linux & T
 ## 💻 Installation (Linux/Termux)
 
 ```bash
-apt install git python3 unzip wget -y  # Install dependencies
 git clone https://github.com/LuciferJennifer07/NakliWebsite.git
 cd NakliWebsite
 chmod +x setup.sh
