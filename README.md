@@ -9,7 +9,7 @@ This is a Python-based phishing simulation tool for educational use only. DO NOT
 ## Usage
 ```bash
 chmod +x ngrok
-./ngrok authtoken YOUR_NGROK_AUTH_TOKEN
+./ngrok authtoken 2yrJgs9LgPtAVqmzxariwoY8WMA_4D1fof8AmBXfKZscBC6Ko
 python3 main.py
 ```
 
