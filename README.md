@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @LuciferJennifer07
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python and HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Instagram I'd- @yuvrajtyagiuv
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# NakliWebsite
+This is a Python-based phishing simulation tool for educational use only. DO NOT use this tool for real phishing or illegal activity.
 
-<!---
-LuciferJennifer07/LuciferJennifer07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Features
+- Fake login page hosting
+- Capture entered credentials
+- Ngrok public URL support
+
+## Usage
+```bash
+chmod +x ngrok
+./ngrok authtoken YOUR_NGROK_AUTH_TOKEN
+python3 main.py
+```
+
+## License
+Educational use only. Developer is not responsible for misuse.
+
+## Author
+Developed by yuvrajtyagi
